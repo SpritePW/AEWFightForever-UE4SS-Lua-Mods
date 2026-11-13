@@ -18,7 +18,7 @@ Allows you to use any wrestler in the game as a referee. Once installed, you can
 
 1. Launch the game with the mod installed.
 2. Open the in-game **Options** menu.
-3. Navigate to the Match options.
+3. Navigate to the **Match** options.
 4. Choose the wrestler you want to use as the referee.
 
 Your selected wrestler will be used as the referee in matches.
