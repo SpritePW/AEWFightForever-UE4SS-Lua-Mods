@@ -1,4 +1,4 @@
-# AEWFightForever-UE4SS-Lua-Mods
+# AEW Fight Forever UE4SS Lua Mods
 
 A collection of Lua mods for **AEW: Fight Forever**, built for [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
 
