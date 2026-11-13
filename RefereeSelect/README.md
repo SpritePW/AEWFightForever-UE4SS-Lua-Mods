@@ -11,7 +11,7 @@ Allows you to use any wrestler in the game as a referee. Once installed, you can
 ## Installation
 
 1. Download and install [UE4SS v4.0.0](https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v4.0.0) or later.
-2. Extract the `Referee Select` folder into your game's `ue4ss/Mods` directory.
+2. Extract the `RefereeSelect` folder into your game's `ue4ss/Mods` directory.
 3. Ensure that an `enabled.txt` file is present inside the mod folder.
 
 ## Selecting a Referee
